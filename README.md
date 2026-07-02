@@ -62,7 +62,7 @@ Python • SQL • MongoDB
 Excel • Power BI • Pandas • NumPy • Matplotlib • Seaborn
 
 ### 🤖 Machine Learning
-Scikit-Learn • TensorFlow • PyTorch • OpenCV
+Linear & Logistic Regression • Decision Trees • Random Forest • K-Means Clustering • Neural Networks • CNNs
 
 ### 🧰 Tools & Platforms
 Streamlit • FastAPI • Flask • Docker • Git • GitHub
