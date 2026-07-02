@@ -263,11 +263,6 @@ Worked on machine learning, deep learning, and analytics workflows, including pr
 -  AI For Data Analysis — Google 
 ---
 
-# 🌍 Open Source & Side Projects
-
-Currently building **We With All**, an AI-powered learning platform for CBSE/ICSE students, alongside my data analytics portfolio — combining my interest in analytics with product and entrepreneurial experience.
-
----
 
 # 💡 Fun Facts
 
