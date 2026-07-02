@@ -32,7 +32,7 @@ To become a **Data Analyst** who helps organizations make faster, better decisio
 
 ## 💡 Quick Facts
 
-- 🎓 Final Year B.E. (AI & ML)
+- 🎓 AI & ML engineering graduate
 - 📊 Data Analytics Enthusiast
 - 📈 Power BI & Excel Dashboard Builder
 - 🧠 AI/ML Foundation
