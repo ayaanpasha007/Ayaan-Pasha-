@@ -12,7 +12,7 @@ Turning raw data into actionable business insights using analytics and AI-powere
 
 Hi, I'm **Ayaan Pasha**, an aspiring **Data Analyst** with a background in **Artificial Intelligence & Machine Learning**. I enjoy transforming messy, real-world datasets into clear, decision-ready insights using **SQL, Power BI, Excel, and Python**, while leveraging my AI/ML foundation to build smarter, more automated analytics workflows.
 
-## 🎓 Currently a final-year AI & ML engineering student, actively building a portfolio of business-focused data analytics projects and applying for entry-level Data Analyst roles at MNCs.
+## 🎓 AI & ML engineering graduate, actively building a portfolio of business-focused data analytics projects and applying for entry-level Data Analyst roles at MNCs.
 
 ## 🚀 What I'm Working On
 
@@ -312,7 +312,7 @@ Privacy-first, fully offline LLM response generation system.
 
 # 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayaan-pasha-6278bb29b/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanpashacloud@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayaanpasha007)
 
@@ -339,7 +339,6 @@ I'm open to:
 
 📧 Email: <ayaanpashacloud@gmail.com>
 💼 LinkedIn: [<https://linkedin.com/in/YOUR_LINKEDIN>](https://www.linkedin.com/in/ayaan-pasha-6278bb29b/)
-🌐 Portfolio: <https://your-portfolio-link.vercel.app>
 🐙 GitHub: <https://github.com/ayaanpasha007>
 
 ---
