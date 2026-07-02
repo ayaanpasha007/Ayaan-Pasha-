@@ -6,7 +6,6 @@ Turning raw data into actionable business insights using analytics and AI-powere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayaan-pasha-6278bb29b/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanpashacloud@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayaanpasha007)
 
 ---
@@ -340,7 +339,7 @@ I'm open to:
 
 📧 Email: <ayaanpashacloud@gmail.com>
 📱 Phone: +91 8880777180
-💼 LinkedIn: <https://linkedin.com/in/YOUR_LINKEDIN>
+💼 LinkedIn: [<https://linkedin.com/in/YOUR_LINKEDIN>](https://www.linkedin.com/in/ayaan-pasha-6278bb29b/)
 🌐 Portfolio: <https://your-portfolio-link.vercel.app>
 🐙 GitHub: <https://github.com/ayaanpasha007>
 
