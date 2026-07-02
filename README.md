@@ -294,20 +294,6 @@ Currently building **We With All**, an AI-powered learning platform for CBSE/ICS
 
 ---
 
-# 📌 Pinned Repositories
-
-⭐ **Swiggy Sales Analytics Dashboard**
-Interactive Excel BI dashboard analyzing ₹53M+ in sales across 15+ Indian states.
-
-⭐ **McDonald's Analytics Dashboard**
-Multi-tab Power BI dashboard with DAX measures and geospatial visuals.
-
-⭐ **Smart Attendance System**
-Face recognition-based attendance automation using OpenCV, MySQL & Docker.
-
-⭐ **Offline LLM**
-Privacy-first, fully offline LLM response generation system.
-
 ---
 
 # 🤝 Let's Connect
@@ -316,24 +302,6 @@ Privacy-first, fully offline LLM response generation system.
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanpashacloud@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayaanpasha007)
 
----
-
-# 💼 Looking For
-
-I'm actively looking for opportunities as a:
-
-- Data Analyst
-- Business Analyst
-- BI/Reporting Analyst
-- Junior Data Analyst (AI-savvy)
-
-I'm open to:
-
-- Full-Time Roles
-- Remote & Hybrid Positions
-- Entry-Level Data Analyst Positions
-
----
 
 # 📫 Contact Me
 
@@ -341,15 +309,6 @@ I'm open to:
 💼 LinkedIn: [<https://linkedin.com/in/YOUR_LINKEDIN>](https://www.linkedin.com/in/ayaan-pasha-6278bb29b/)
 🐙 GitHub: <https://github.com/ayaanpasha007>
 
----
 
-# ❤️ Support
-
-If you like my work, consider giving a ⭐ to my repositories.
-It motivates me to keep building useful, insight-driven projects.
-
----
-
-### ⭐ Thanks for visiting my profile!
 
 *"Data doesn't speak for itself — analysts translate it."*
