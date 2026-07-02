@@ -279,14 +279,7 @@ Currently building **We With All**, an AI-powered learning platform for CBSE/ICS
 
 🚀 Every project teaches something new.
 
----
 
-# 📊 GitHub Analytics
-
-[![](https://github-readme-stats.vercel.app/api?username=ayaanpasha007&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)](https://github.com/ayaanpasha007)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaanpasha007&layout=compact&theme=github_dark&hide_border=true)](https://github.com/ayaanpasha007)
-
----
 
 # 🔥 GitHub Streak
 
