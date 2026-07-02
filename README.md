@@ -257,9 +257,8 @@ Worked on machine learning, deep learning, and analytics workflows, including pr
 # 📜 Certifications
 
 -  Data Analytics Professional Certificate — Google
--  Introduction to Data Analysis by Python (AI for Data Analysis) — Google
+-  Introduction to Data Analysis by Python () — Google
 -  Excel Skills for Business: Essentials — Macquarie University
--  Introduction to Data Analyis Using Python — Google
 -  AI For Data Analysis — Google 
 ---
 
